@@ -67,7 +67,7 @@ Vị đầu bếp này cực kỳ giỏi trong việc nhận biết và sắp x�
 - **Khi được yêu cầu**: Nếu bạn hỏi "Đây có phải là món phở không?", ông ấy sẽ nếm thử và trả lời ngay: "Đúng" hoặc "Sai".
 - **Điểm yếu**: Ông ấy không biết nấu món mới. Ông ấy chỉ biết những thứ đã có sẵn trong thực đơn.
 
-* **Dễ nhớ**: Giống như một Giám khảo đi chấm thi, chỉ biết "Đúng" hoặc "Sai".
+**Dễ nhớ**: Giống như một Giám khảo đi chấm thi, chỉ biết "Đúng" hoặc "Sai".
 
 **2. Đầu bếp "Sáng tạo" (Generative AI)**
 
@@ -76,7 +76,7 @@ Vị đầu bếp này cực kỳ giỏi trong việc nhận biết và sắp x�
 - **Khi được yêu cầu**: Nếu bạn nói "Con muốn một món ăn kết hợp giữa Pizza và Bánh chưng", ông ấy sẽ tự nghĩ ra công thức và làm ra một chiếc "Pizza Bánh chưng" hoàn toàn mới.
 - **Điểm mạnh**: Ông ấy tạo ra nội dung mới (hình ảnh, câu chuyện, bài hát) mà trước đó chưa hề tồn tại.
 
-* **Dễ nhớ**: Giống như một Nghệ sĩ, luôn tạo ra những tác phẩm mới.
+**Dễ nhớ**: Giống như một Nghệ sĩ, luôn tạo ra những tác phẩm mới.
 
 > AI truyền thống giúp chúng ta hiểu thế giới (nhận diện giọng nói, dịch ngôn ngữ), còn Generative AI giúp chúng ta thêm màu sắc cho thế giới
 

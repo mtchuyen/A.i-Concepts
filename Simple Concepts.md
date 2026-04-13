@@ -74,7 +74,11 @@ Kiến trúc kết hợp:
 Là Transformer được huấn luyện trên khối lượng văn bản cực lớn.
 
 Nhiệm vụ cốt lõi:
-> Dự đoán token tiếp theo.
+> **Dự đoán** token tiếp theo.
+
+Hãy tưởng tượng bạn đang nói chuyện với một người bạn, và họ bắt đầu một câu như, _“Tôi sẽ pha một tách ________.”_ Hầu hết mọi người sẽ đoán ngay chỗ trống có thể là _“cà phê”_ hoặc _“trà”_, dựa trên những gì họ biết là cách nói thông thường.
+
+Tương tự như vậy, một mô hình ngôn ngữ được huấn luyện để **dự đoán từ tiếp theo** (hoặc một phần của từ) bằng cách xem xét các từ đã xuất hiện trước đó. Nó học các mẫu này bằng cách phân tích một lượng lớn văn bản, cho phép nó đưa ra **các dự đoán có tính đến ngữ cảnh** về những gì nên xuất hiện tiếp theo.
 
 ---
 

@@ -25,6 +25,11 @@ Chào bạn, dựa trên kinh nghiệm của một người cha có con đang h�
 
 ## Generative AI với AI truyền thống
 
+**So sánh Generative AI và AI Truyền thống (Discriminative AI)**
+
+- **AI Truyền thống (Discriminative)**: Tập trung vào việc **phân loại** hoặc **dự đoán** dựa trên các quy luật đã học từ dữ liệu lịch sử.
+- **Generative AI**: Tập trung vào việc **tạo ra dữ liệu mới** có đặc điểm tương tự như dữ liệu huấn luyện.
+
 **VD: Cách ví von Generative AI là "Siêu đầu bếp có trí nhớ vô tận"**
 
 Hãy tưởng tượng **Generative AI** giống như một vị **Đầu bếp Robot** cực kỳ đặc biệt:

@@ -1,5 +1,5 @@
 
-# 20 Khái Niệm AI Được Giải Thích Đơn Giản
+# Khái Niệm AI Được Giải Thích Đơn Giản
 
 ---
 

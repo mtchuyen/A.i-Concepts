@@ -22,15 +22,18 @@ Quy trình tính toán phức tạp của Generative AI có thể giải thích 
 
 Chào bạn, dựa trên kinh nghiệm của một người cha có con đang học lớp 5, tôi sẽ giải thích về Generative AI (AI tạo phần mềm) bằng một hình ảnh rất quen thuộc để bạn có thể kể lại cho con nghe một cách tự nhiên nhé:
 
-### VD: Cách ví von Generative AI là "Siêu đầu bếp có trí nhớ vô tận"
+
+## Generative AI với AI truyền thống
+
+**VD: Cách ví von Generative AI là "Siêu đầu bếp có trí nhớ vô tận"**
 
 Hãy tưởng tượng **Generative AI** giống như một vị **Đầu bếp Robot** cực kỳ đặc biệt:
 
-#### 1. Học từ hàng tỷ món ăn (Giai đoạn Training)
+### 1. Học từ hàng tỷ món ăn (Giai đoạn Training)
 Vị đầu bếp này không tự nhiên giỏi. Ông ấy đã **ĐỌC** qua tất cả các cuốn sách nấu ăn trên thế giới, **XEM** hàng tỷ video dạy nấu ăn và nếm thử mọi món ăn từ Á sang Âu. 
 * **Dễ nhớ:** AI là "kẻ mọt sách" vĩ đại nhất hành tinh.
 
-#### 2. Không chỉ "hâm nóng" đồ ăn (Generative là gì?)
+### 2. Không chỉ "hâm nóng" đồ ăn (Generative là gì?)
 Nếu bạn hỏi một robot bình thường: "Hãy cho ta xem món Phở", nó sẽ lấy ra (lôi trong tủ lạnh) ra một bát phở đã nấu sẵn (giống như Google tìm kiếm hình ảnh có sẵn).
 
 Nhưng với **Generative AI**, nếu bạn yêu cầu: "Hãy làm một món Phở nhưng có vị Chocolate và hình ngôi sao", nó sẽ **tự tay nấu mới hoàn toàn** dựa trên những gì nó đã học [chưa kiểm chứng]. 
@@ -45,7 +48,7 @@ Vì bạn luôn yêu cầu sự chính xác:
 #### 🌟 Câu thần chú để nhớ:
 > **"Generative AI là AI biết tạo ra cái mới, chứ không chỉ tìm lại cái cũ."**
 
-#### So sánh
+### So sánh
 
 | Đặc điểm | Đầu bếp Phân loại (AI Cũ) | Đầu bếp Sáng tạo (Gen AI) | 
 | --- |  --- |  --- | 
@@ -54,7 +57,7 @@ Vì bạn luôn yêu cầu sự chính xác:
 | Ví dụ | Nhận ra khuôn mặt bạn để mở khóa điện thoại | Vẽ một bức tranh con đang cưỡi rồng.| 
 | Tính cách | Rất nghiêm túc, ít khi sai. | Hay mơ mộng, đôi khi tưởng tượng quá đà (Hallucination)| 
 
-#### Câu chuyện về hai người bạn đầu bếp
+### Câu chuyện về hai người bạn đầu bếp
 Hãy tưởng tượng trong căn bếp công nghệ có hai vị đầu bếp khác nhau:
 
 **1. Đầu bếp "Phân loại" (AI Truyền thống)**
